@@ -4,7 +4,7 @@ The configuration files for static analysis tools like Checkstyle, POM, and Spot
 
 ## License
 
-Copyright (C) 2019 Andrew Todd at@auspicacious.org
+Copyright (C) 2019-2020 Andrew Todd at@auspicacious.org
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
