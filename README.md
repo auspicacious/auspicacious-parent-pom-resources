@@ -1,3 +1,7 @@
+# Auspicacious parent POM resources
+
+The configuration files for static analysis tools like Checkstyle, POM, and SpotBugs are packaged here, separately from the Auspicacious parent POM, in order to make them easily and unambiguously accessible to projects inheriting from that POM.
+
 ## License
 
 Copyright (C) 2019 Andrew Todd at@auspicacious.org
